@@ -2,7 +2,7 @@ runpod~=1.7.0
 infinity-emb[all]==0.0.77
 
 einops # deployment of custom code with nomic
-git+https://github.com/AimoreRRD/infinity.git@fix-bettertransformer-compatibility
+git+https://github.com/AimoreRRD/infinity.git@6e7319173650b7255922aaf88c5ed7cb80f3b502
 git+https://github.com/pytorch-labs/float8_experimental.git
 
 transformers==4.53.3
